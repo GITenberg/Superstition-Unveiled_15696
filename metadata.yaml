@@ -1,0 +1,26 @@
+_repo: Superstition-Unveiled_15696
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Southwell, Charles
+    birthdate: 1814
+    deathdate: 1860
+    gutenberg_agent_id: '6203'
+    url: http://www.gutenberg.org/2009/agents/6203
+description: ''
+gutenberg_issued: '2005-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atheism'
+- !lcc 'BL'
+title: Superstition Unveiled
+url: http://www.gutenberg.org/ebooks/15696
